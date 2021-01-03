@@ -1,5 +1,5 @@
 # Infinite_Number_Calculator
-
+infiniteCalculator
 Project for Introduction to System Programming
 
 # Team Members
