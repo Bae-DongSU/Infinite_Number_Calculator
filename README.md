@@ -3,14 +3,6 @@ infiniteCalculator
 
 Project for Introduction to System Programming
 
-# Team Members
-
-| 이름   | 학번       |
-| ------ | ---------- |
-| 박@준 | 202005@@@@ |
-| 조@희 | 202005@@@@ |
-| 이@비 | 202006@@@@ |
-| 정@민 | 202005@@@@ |
 
 ## Build
 
